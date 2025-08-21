@@ -1,67 +1,72 @@
-# 👋 Hey, I'm AmirHosein Sabri (SabriAmir)
-
-🚀 Full-Stack Developer | Game Developer | Security Enthusiast
+# 👋 Hey, I'm AmirHosein Sabri (SabriAmir) 🚀
+Full-Stack Developer | Game Developer | Security & Automation Enthusiast
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎮 Passionate about Game Development with Python & Pygame  
-- 🌐 Skilled in Full-Stack Web Development (Frontend + Backend)  
-- 🔐 Interested in Cyber Security & building security tools  
-- 💡 Always learning, experimenting, and contributing to open-source  
+🎮 Passionate about Game Development with Python & Pygame  
+🌐 Skilled in Full-Stack Web Development (Frontend + Backend)  
+🔐 Enthusiastic about Cyber Security, Pen-testing, & security tools  
+⚙️ Exploring Automation, Scripting, and Hardware Projects (IoT & Robotics)  
+💡 Always learning, experimenting, and contributing to open-source  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Skills
 
-Languages & Frameworks
-- Python · JavaScript · HTML · CSS · Node.js · Django · Flask  
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) 
 
-Game Development
-- Pygame · Object-Oriented Design · Modular Game Systems  
+### 🎮 Game Development
+![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=python&logoColor=white) 
+Object-Oriented Design · Modular Game Systems  
 
-Security Tools
-- Pen-testing basics · Automation scripts  
+### 🔐 Security & Pen-testing
+![PenTesting](https://img.shields.io/badge/-Pen-testing-DC143C?style=flat-square&logo=hackthebox&logoColor=white) 
+Automation Scripts · Network & Web Security · Vulnerability Testing  
 
-Other Tools
-- Git & GitHub · VS Code · Linux  
+### 🤖 Automation & Scripting
+![Automation](https://img.shields.io/badge/-Automation-FFA500?style=flat-square&logo=powershell&logoColor=white) 
+Task Automation · File & System Management · Web Scraping · Cron Jobs  
+
+### 🛠 Hardware & IoT
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) 
+Sensors & Actuators · Embedded Systems  
+
+### 🛠 Other Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 
 ---
 
 ## 📂 Featured Projects
-- 🐍 [Snake Game](https://github.com/SabriAmir/Snake-game) — A classic Snake arcade game built with Python & Pygame  
+- 🐍 [Snake Game](https://github.com/SabriAmir/Snake-game) — Classic Snake arcade game with Python & Pygame  
 - 🔧 Security Tools *(coming soon 🚀)*  
+- 🤖 Automation & Hardware Projects *(coming soon 🚀)*  
 - 🌍 Web Apps & Full-Stack Projects  
 
 ---
 
 ## 📊 GitHub Stats
-
 ![SabriAmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabriAmir&show_icons=true&theme=tokyonight)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabriAmir&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌎 Connect with Me
-
 [![GitHub](https://img.shields.io/badge/GitHub-SabriAmir-181717?style=flat-square&logo=github)](https://github.com/SabriAmir)  
 [![Telegram](https://img.shields.io/badge/Telegram-SabriAmir-0088CC?style=flat-square&logo=telegram)](https://t.me/SabriAmir)  
 [![X (Twitter)](https://img.shields.io/badge/X-@SabriOfficial__-000000?style=flat-square&logo=x)](https://twitter.com/SabriOfficial_)  
 
 ---
-✨ _“Code, Create, and Keep Learning!”_ ✨
-<!--
-**SabriAmir/SabriAmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ _“Code, Create, Automate, Secure, and Keep Learning!”_ ✨
