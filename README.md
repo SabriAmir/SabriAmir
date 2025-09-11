@@ -46,14 +46,6 @@ Sensors & Actuators · Embedded Systems
 
 ---
 
-## 📂 Featured Projects
-- 🐍 [Snake Game](https://github.com/SabriAmir/Snake-game) — Classic Snake arcade game with Python & Pygame  
-- 🔧 Security Tools *(coming soon 🚀)*  
-- 🤖 Automation & Hardware Projects *(coming soon 🚀)*  
-- 🌍 Web Apps & Full-Stack Projects  
-
----
-
 ## 📊 GitHub Stats
 ![SabriAmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabriAmir&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabriAmir&layout=compact&theme=tokyonight)
