@@ -1,6 +1,4 @@
 <h1 align="center"> AmirHosein Sabri 
-  
-# Full-Stack Developer | miniGame Developer | Security & Automation Enthusiast
 
 ---
 
