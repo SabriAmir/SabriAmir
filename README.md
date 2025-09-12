@@ -59,7 +59,8 @@ Sensors & Actuators · Embedded Systems
 ---
 
 ![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SabriAmir&theme=github-compact)
+
 
 ---
 ✨ _“Code, Create, Automate, Secure, and Keep Learning!”_ ✨
