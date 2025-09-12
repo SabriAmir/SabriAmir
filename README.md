@@ -45,9 +45,12 @@ Sensors & Actuators · Embedded Systems
 
 ---
 
-## 📊 GitHub Stats
-![SabriAmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabriAmir&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabriAmir&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SabriAmir&theme=tokyonight&hide_border=true" alt="streak stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SabriAmir&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabriAmir&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
 
 ---
 
