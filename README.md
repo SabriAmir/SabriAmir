@@ -54,11 +54,22 @@ Sensors & Actuators · Embedded Systems
 
 ---
 
-## 🌎 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-SabriAmir-181717?style=flat-square&logo=github)](https://github.com/SabriAmir)  
-[![Telegram](https://img.shields.io/badge/Telegram-SabriAmir-0088CC?style=flat-square&logo=telegram)](https://t.me/SabriAmir)  
-[![X (Twitter)](https://img.shields.io/badge/X-@SabriOfficial__-000000?style=flat-square&logo=x)](https://twitter.com/SabriOfficial_)  
-[![Email](https://img.shields.io/badge/sabriamir.official@gmail.com)
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:sabriamir.official@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://t.me/SabriAmir" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+  <a href="https://x.com/SabriOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
+  </a>
+  <a href="https://instagram.com/a.h_sabri" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+</p>
+
 ---
 
 ![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
