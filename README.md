@@ -58,7 +58,7 @@ Sensors & Actuators · Embedded Systems
 [![GitHub](https://img.shields.io/badge/GitHub-SabriAmir-181717?style=flat-square&logo=github)](https://github.com/SabriAmir)  
 [![Telegram](https://img.shields.io/badge/Telegram-SabriAmir-0088CC?style=flat-square&logo=telegram)](https://t.me/SabriAmir)  
 [![X (Twitter)](https://img.shields.io/badge/X-@SabriOfficial__-000000?style=flat-square&logo=x)](https://twitter.com/SabriOfficial_)  
-
+[![Email](https://img.shields.io/badge/sabriamir.official@gmail.com)
 ---
 
 ![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
