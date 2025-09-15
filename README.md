@@ -76,6 +76,3 @@ Sensors & Actuators · Embedded Systems
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SabriAmir&theme=github-compact)
 
-
----
-✨ _“Code, Create, Automate, Secure, and Keep Learning!”_ ✨
