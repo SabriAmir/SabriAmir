@@ -72,7 +72,8 @@ Sensors & Actuators · Embedded Systems
 
 ---
 
-![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Pac-Man animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=yellow&color_dots=#00ff00,#00cc00,#009900,#006600,#003300)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SabriAmir&theme=github-compact)
 
 
