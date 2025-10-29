@@ -50,35 +50,19 @@
 
 ---
 
-## 🧩 Tech Stack Highlights
-| Category | Tools & Technologies |
-|-----------|---------------------|
-| Programming | Python, C++, Bash, PowerShell |
-| Web Dev | HTML, CSS, JavaScript, PHP, WordPress |
-| Hardware & IoT | Arduino, Raspberry Pi, Sensors & Microcontrollers |
-| Security & Pentesting | Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark |
-| Networking | Cisco CCNA basics, Automation Scripts, TCP/IP Lab |
-| Blockchain & Crypto | Bitcoin Core Basics, Wallet Ops & Automation Scripts |
-| Tools & Environments | VS Code, Git, GitHub, VirtualBox, WSL |
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SabriAmir&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabriAmir&theme=tokyonight" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabriAmir&layout=compact&theme=radical&langs_count=10" height="160"/>
-</p>
 
 ---
   
 
 ## 💬 Quote
-> “Engineer the system. Lead the people. Shape the future.”  
-
+> “Engineer the system. Follow the algorithms. Shape the future.”  
+                                                           - Sabri - 
 ---
 
 ## 💡 Support & Connect
