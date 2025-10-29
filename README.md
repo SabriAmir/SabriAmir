@@ -29,8 +29,15 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,,html,css,js,sql,wordpress,powershell,vim,git,vscode,arduino,raspberrypi,linux,debian,ubuntu,redhat,mql5,docker" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,bash" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux,vim,docker,git,vscode" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,sqlite,mysql,Django" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=wordpress,,github,powershell,cloudflare" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
