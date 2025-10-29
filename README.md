@@ -29,14 +29,13 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,php,wordpress,powershell,bash,git,vscode,arduino,raspberrypi,linux,debian,ubuntu,redhat" />
+  <img src="https://skillicons.dev/icons?i=python,,html,css,js,sql,wordpress,powershell,vim,git,vscode,arduino,raspberrypi,linux,debian,ubuntu,redhat,mql5,docker" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Parrot%20OS-2ECC71?style=flat&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-0078D7?style=flat&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Automation-333333?style=flat&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Open%20Source-181717?style=flat&logo=opensourceinitiative&logoColor=white"/>
 </p>
@@ -44,9 +43,9 @@
 ---
 
 ## 🌍 Operating Systems & Platforms
-- 🐧 Linux (Kali Linux | Debian | Ubuntu | RedHat | Arch)  
+- 🐧 Linux (Kali Linux | Debian | Ubuntu | RedHat )  
 - 🪟 Windows (XP / 7 / 10 / 11 / Server)  
-- 💾 Raspberry Pi OS | Arduino IDE | 
+- 💾 Raspberry Pi OS | Arduino IDE 
 
 ---
 
