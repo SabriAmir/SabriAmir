@@ -12,22 +12,29 @@
 
 ### 👋 Hey there, I’m AmirHosein Sabri
 
-💻 I’m a Computer Engineering student who’s passionate about Cybersecurity, AI, and Building Smart Systems.  
-⚙️ I love crafting powerful tools and exploring how technology can shape the world.  
-🎯 My long-term mission: to become a leading engineer, build a network of experts, and create real impact in the Middle East.  
+💻 I’m a Computer Engineering student passionate about Cybersecurity, Electronics, and Building Smart Systems.  
+⚙️ I work across both software and hardware, connecting systems that think, sense, and protect.  
+🎯 My long-term goal: to become a leading engineer, build a strong network of experts, and make real impact across the Middle East.
 
 ---
 
 ### 🧠 What I'm Currently Doing
-- 🚀 Working on new security & automation tools
-- 🧩 Learning advanced Python and Network Engineering
-- 📘 Building my GitHub profile to share future projects
+- 🧩 Experimenting with Arduino & Raspberry Pi projects  
+- 🔐 Learning advanced Kali Linux & Cyber Defense techniques  
+- 🧠 Building Python tools for network automation & testing  
+- 📘 Expanding my GitHub with real-world projects  
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,linux,bash,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,linux,bash,git,vscode,arduino,raspberrypi" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0078D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=flat&logo=raspberrypi&logoColor=red" />
 </p>
 
 ---
@@ -43,7 +50,8 @@
 ### 🔥 Featured Projects
 - 🧰 Shifter Tool — Custom DDOS & Security Testing Toolkit  
 - 🧠 AI Experiments — Learning projects exploring Python & automation  
-- 🌐 Web Utilities — Scripts and small tools for developers
+- ⚡ IoT Lab — Experiments with Arduino & Raspberry Pi  
+- 🌐 Web Utilities — Scripts and tools for developers  
 
 ---
 
@@ -53,7 +61,7 @@
 ---
 
 ### 💡 Support & Connect
-If you enjoy my work or want to collaborate, feel free to connect via Telegram or email!  
+If you enjoy my work or want to collaborate, feel free to reach out 👇  
 <p align="center">
   <a href="https://t.me/AmirSabri"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
   <a href="mailto:amirhoseinsabri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
